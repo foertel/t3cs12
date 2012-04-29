@@ -1,0 +1,6 @@
+ # Plugin configuration
+plugin.tx_t3cs12 {
+	persistence {
+		storagePid = 1
+	}
+}
